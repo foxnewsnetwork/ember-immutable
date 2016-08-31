@@ -1,6 +1,12 @@
 # Ember-immutable
 
-This README outlines the details of collaborating on this Ember addon.
+Ember-cli shim for using [Facebook's Immutable.js](https://facebook.github.io/immutable-js/)
+
+```javascript
+import Immutable from 'immutable';
+
+const myMap = Immutable.Map();
+```
 
 ## Installation
 

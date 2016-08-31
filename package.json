@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "",
+  "repository": "https://github.com/foxnewsnetwork/ember-immutable",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -41,7 +41,8 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "immutable"
   ],
   "dependencies": {
     "broccoli-funnel": "^1.0.6",
