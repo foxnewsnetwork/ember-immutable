@@ -1,5 +1,7 @@
 # Ember-immutable
 
+[![CircleCI](https://circleci.com/gh/foxnewsnetwork/ember-immutable.svg?style=svg)](https://circleci.com/gh/foxnewsnetwork/ember-immutable)
+
 Ember-cli shim for using [Facebook's Immutable.js](https://facebook.github.io/immutable-js/)
 
 ```javascript
